@@ -6,3 +6,10 @@ This is a time series analysis & forecasting problem. In this project, we shalll
 Specifically, we are to build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
 The training data includes dates, store, and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models
+
+
+
+
+
+# Author
+Jacob Oriang Jaroya
